@@ -1,0 +1,1 @@
+A mini project which aims in developing a computerized system to maintain all the daily work of library. Overall this project of ours is being developed to help the students as well as staff of library.
